@@ -55,7 +55,7 @@ Larry Wall   | Martha Castro
 Dennis Ritchie | Martín Páez
 Jon "Maddog" Hall | Disponible
 Ian Murdock  | David Orozco
-Rasmus Lerdorf | Disponible
+Rasmus Lerdorf | Alan Lopez
 Marc Erwing | Disponible
 Miguel de Icaza | Armando Glez 
 Andrew Tannenbaum | Disponible
