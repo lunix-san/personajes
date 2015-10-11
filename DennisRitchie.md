@@ -29,7 +29,7 @@ por supuesto, el mundo derivado de Unix "código libre" parece estar sufriendo d
 De igual manera le preguntaron si habia usado LINUX y cuál era su opinión.  
 Él contesta que su mundo de la computación se base en Inferno, Plan 9 y Windows, sin embargo admira el creimiento y el vigor de **LINUX**.
 
-###Algunas frases de colegas de Dennis### 
+###Algunas frases de colegas de Dennis
 
 “Casi todo en la internet utiliza dos cosas; C y Unix. Los navegadores se escriben en C. EL kernel de Unix – sobre lo que corre Internet – está escrito en C.  
 Los servidores de internet están escritos en C, y, de no ser así, están escritos en Java o C++, los cuales son derivados de C, o Python o Ruby, que están implementados en C.  
@@ -44,7 +44,7 @@ Ritchie construyó cosas que los tecnológicos podían usar para hacer infraestr
 “Unix es básicamente un sistema operativo muy simple, sólo se necesita un genio para entender su simplicidad.”
 **Dennis Ritchie**
 
-###Bibliografia##  
+###Referencias 
 [1] http://hipertextual.com/archivo/2011/10/historia-del-software-dennis-ritchie/
 [2] http://www.genbetadev.com/desarrolladores/dennis-ritchie-creador-de-c-y-unix
 [3] http://www.pedrius.es/2012/02/09/informatica/dennis-ritchie-o-la-importancia-de-morirse-al-mismo-tiempo-que-steve-jobs/
