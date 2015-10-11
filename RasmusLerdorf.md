@@ -36,6 +36,6 @@ Si todo el mundo usa el código que he escrito, con seguridad obtendré algo de 
 
 ## Referencia ##
 
-Rasmus Lerdorf (18 diciembre 2015)  Wikipedia, la enciclopedia libre
+Rasmus Lerdorf (18 diciembre 2014)  Wikipedia, la enciclopedia libre
  
 https://es.wikipedia.org/wiki/Rasmus_Lerdorf
