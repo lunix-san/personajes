@@ -53,7 +53,7 @@ Eric Raymond  | Anilu Flores
 Guido Van Rossum | Miguel Romano R.
 Larry Wall   | Martha Castro
 Dennis Ritchie | Martín Páez
-Jon "Maddog" Hall | Disponible
+Jon "Maddog" Hall | Luis Ramón Sánchez Rico
 Ian Murdock  | David Orozco
 Rasmus Lerdorf | Alan Lopez
 Marc Erwing | Disponible
